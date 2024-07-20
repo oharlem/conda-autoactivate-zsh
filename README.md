@@ -1,0 +1,1 @@
+# conda-autoactivate-zsh
